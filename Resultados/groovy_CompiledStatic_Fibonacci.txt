@@ -1,0 +1,32 @@
+------STARTUP------
+FibStatic: Iteration 1. Times in millis 2273.264169692993.
+FibStatic: Iteration 2. Times in millis 2294.2566871643066.
+FibStatic: Iteration 3. Times in millis 2260.280132293701.
+FibStatic: Iteration 4. Times in millis 2275.259494781494.
+FibStatic: Iteration 5. Times in millis 2263.2734775543213.
+FibStatic: Iteration 6. Times in millis 2250.140905380249.
+FibStatic: Iteration 7. Times in millis 2253.012180328369.
+FibStatic: Iteration 8. Times in millis 2259.660482406616.
+FibStatic: Iteration 9. Times in millis 2322.9496479034424.
+FibStatic: Iteration 10. Times in millis 2398.164749145508.
+Results Startup:
+        Interval: (2254.23399998872, 2315.8183853414803).
+        Mean: 2270,9990739822388.
+        Standard deviation: 12.023190265069712.
+        Error percentage: 2.70%.
+------STEADY-STATE------
+Iteration 1. Times in millis 1424.
+Iteration 2. Times in millis 1470.
+Iteration 3. Times in millis 1482.
+Iteration 4. Times in millis 1463.
+Iteration 5. Times in millis 1457.
+Iteration 6. Times in millis 1427.
+Iteration 7. Times in millis 1433.
+Iteration 8. Times in millis 1424.
+Iteration 9. Times in millis 1420.
+Iteration 10. Times in millis 1433.
+Results Steady-state:
+        Interval: (1428.0373947744038, 1458.5626052255961).
+        Mean: 1441.0.
+        Standard deviation: 11.313708498984761.
+        Error percentage: 2.11%.

@@ -1,0 +1,32 @@
+------STARTUP------
+Iteration 1. Times in millis 1642.4758434295654.
+Iteration 2. Times in millis 1631.4880847930908.
+Iteration 3. Times in millis 1648.4713554382324.
+Iteration 4. Times in millis 1649.8239040374756.
+Iteration 5. Times in millis 1755.371332168579.
+Iteration 6. Times in millis 1721.755027770996.
+Iteration 7. Times in millis 1727.5049686431885.
+Iteration 8. Times in millis 1697.598934173584.
+Iteration 9. Times in millis 1664.0827655792236.
+Iteration 10. Times in millis 1732.8100204467773.
+Results Startup:
+        Interval: (1656.6287763750768, 1717.6476709210658).
+        Mean: 1680,8408498764038.
+        Standard deviation: 16.758084297180176.
+        Error percentage: 3.62%.
+------STEADY-STATE------
+Iteration 1. Times in millis 1543.
+Iteration 2. Times in millis 1529.
+Iteration 3. Times in millis 1526.
+Iteration 4. Times in millis 1523.
+Iteration 5. Times in millis 1527.
+Iteration 6. Times in millis 1533.
+Iteration 7. Times in millis 1527.
+Iteration 8. Times in millis 1508.
+Iteration 9. Times in millis 1534.
+Iteration 10. Times in millis 1530.
+Results Steady-state:
+        Interval: (1521.9215706544412, 1534.0784293455588).
+        Mean: 1528.625.
+        Standard deviation: 3.42554740151118.
+        Error percentage: 0.80%.
