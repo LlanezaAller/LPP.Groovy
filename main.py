@@ -17,7 +17,7 @@ language = 1
 # Only for groovy
 # 0 => Dynamic
 # 1 => Static
-isStatic = 0
+isStatic = 1
 
 def show(interval, mean, sdev, error_percentage):
     print("\tInterval: {}.".format(interval))
@@ -31,7 +31,10 @@ if __name__ == "__main__":
     if language == 0:
         interval, mean, sdev, error_percentage = bench.startup("java Benchmark", 0.95, 10, 0, mode, -1)
     else:
-        interval, mean, sdev, error_percentage = bench.startup("groovy Benchmark.groovy", 0.95, 10, 0, mode, isStatic)
+        if isStatic:
+            interval, mean, sdev, error_percentage = bench.startup("groovy BenchmarkStatic.groovy", 0.95, 10, 0, mode, isStatic)
+        else:
+            interval, mean, sdev, error_percentage = bench.startup("groovy Benchmark.groovy", 0.95, 10, 0, mode, isStatic)
     print("Results Startup:")
     show(interval, mean, sdev, error_percentage)
 
@@ -39,7 +42,10 @@ if __name__ == "__main__":
     if language == 0:
         interval, mean, sdev, error_percentage = bench.steady("java Benchmark", 0.95, 10, 0, 30, 10, 0.02, mode, -1)
     else:
-        interval, mean, sdev, error_percentage = bench.steady("groovy Benchmark.groovy", 0.95, 10, 0, 30, 10, 0.02, mode, isStatic)
+        if isStatic:
+            interval, mean, sdev, error_percentage = bench.steady("groovy BenchmarkStatic.groovy", 0.95, 10, 0, 30, 10, 0.02, mode, isStatic)
+        else:
+            interval, mean, sdev, error_percentage = bench.steady("groovy Benchmark.groovy", 0.95, 10, 0, 30, 10, 0.02, mode, isStatic)
     print("Results Steady-state:")
     show(interval, mean, sdev, error_percentage)
 

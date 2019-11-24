@@ -24,23 +24,5 @@ public class FibStatic {
 		else 
 			return 1;
     }
-
-    public static void main(String[] args) {
-        double start = System.currentTimeMillis();
-        FibStatic.fibStaticTernary(40);
-        //println("Java(static ternary): " + (System.currentTimeMillis() - start) +" ms");
-
-        start = System.currentTimeMillis();
-        FibStatic.fibStaticIf(40);
-        //println("Java(static if): " + (System.currentTimeMillis() - start) +" ms");
-
-        start = System.currentTimeMillis();
-        new FibStatic().fibTernary(40);
-        //println("Java(instance ternary): " + (System.currentTimeMillis() - start) +" ms");
-
-        start = System.currentTimeMillis();
-        new FibStatic().fibIf(40);
-        //println("Java(instance if): " + (System.currentTimeMillis() - start) +" ms");
-    }
 }
 

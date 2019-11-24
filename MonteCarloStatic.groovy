@@ -25,6 +25,5 @@ public class MonteCarloStatic
 		
 		return ((double) under_curve / Num_samples) * 4.0;
 	}
-
 	
 }
