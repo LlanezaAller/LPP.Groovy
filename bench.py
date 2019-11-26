@@ -26,6 +26,7 @@ def confidence(samples, confidence_level):
     n = len(samples)
     df = n - 1
     t = distributions.t.ppf((1+confidence_level)/2.0, df)
+    # t = distributions.norm.ppf((1+confidence_level)/2.0, df)
     interval = (interval_low, interval_high) = mean - t * sdev / math.sqrt(n) , mean + t * sdev / math.sqrt(n)
     interval_size = interval_high - interval_low
     error_percentage = interval_size / mean * 100.0
@@ -44,6 +45,7 @@ def startup(command, confidence_level, p_iterations, break_if_error_percentage_i
         execution_time = (after-before)*1000
         print("Iteration %s. Times in millis %s." % (i, execution_time))
         execution_times.append(execution_time)
+        # ??????
         interval, mean, sdev, error_percentage = confidence(execution_times, confidence_level)
         if error_percentage <= break_if_error_percentage_is:
             break
