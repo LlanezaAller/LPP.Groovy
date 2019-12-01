@@ -1,0 +1,68 @@
+------STARTUP------
+FibStatic: Iteration 1. Times in millis 2364.795207977295.
+FibStatic: Iteration 2. Times in millis 2335.090398788452.
+FibStatic: Iteration 3. Times in millis 2419.697046279907.
+FibStatic: Iteration 4. Times in millis 2376.821994781494.
+FibStatic: Iteration 5. Times in millis 2529.489040374756.
+FibStatic: Iteration 6. Times in millis 2554.197072982788.
+FibStatic: Iteration 7. Times in millis 2522.5796699523926.
+FibStatic: Iteration 8. Times in millis 2328.543186187744.
+FibStatic: Iteration 9. Times in millis 2295.7887649536133.
+FibStatic: Iteration 10. Times in millis 2335.2949619293213.
+FibStatic: Iteration 11. Times in millis 2360.0261211395264.
+FibStatic: Iteration 12. Times in millis 2336.2905979156494.
+FibStatic: Iteration 13. Times in millis 2386.73996925354.
+FibStatic: Iteration 14. Times in millis 2440.156936645508.
+FibStatic: Iteration 15. Times in millis 2380.2707195281982.
+FibStatic: Iteration 16. Times in millis 2361.7560863494873.
+FibStatic: Iteration 17. Times in millis 2321.622610092163.
+FibStatic: Iteration 18. Times in millis 2360.8157634735107.
+FibStatic: Iteration 19. Times in millis 2418.7936782836914.
+FibStatic: Iteration 20. Times in millis 2379.822254180908.
+FibStatic: Iteration 21. Times in millis 2442.2059059143066.
+FibStatic: Iteration 22. Times in millis 2337.853193283081.
+FibStatic: Iteration 23. Times in millis 2331.688642501831.
+FibStatic: Iteration 28. Times in millis 2317.8799152374268.
+FibStatic: Iteration 29. Times in millis 2316.9100284576416.
+FibStatic: Iteration 30. Times in millis 2310.95552444458.
+Results Startup:
+        Interval: (2348.1635386718376, 2397.3459109690725).
+        Mean: 2368.87968911065.
+        Standard deviation: 11.751267826452402.
+        Error percentage: 2.07%.
+------STEADY-STATE------
+Iteration 1. Times in millis 1517.
+Iteration 2. Times in millis 1513.
+Iteration 3. Times in millis 1538.
+Iteration 4. Times in millis 1533.
+Iteration 5. Times in millis 1515.
+Iteration 6. Times in millis 1542.
+Iteration 7. Times in millis 1549.
+Iteration 8. Times in millis 1492.
+Iteration 9. Times in millis 1549.
+Iteration 10. Times in millis 1533.
+Iteration 11. Times in millis 1532.
+Iteration 12. Times in millis 1526.
+Iteration 13. Times in millis 1524.
+Iteration 14. Times in millis 1539.
+Iteration 15. Times in millis 1531.
+Iteration 16. Times in millis 1524.
+Iteration 17. Times in millis 1536.
+Iteration 18. Times in millis 1539.
+Iteration 19. Times in millis 1565.
+Iteration 20. Times in millis 1517.
+Iteration 21. Times in millis 1511.
+Iteration 22. Times in millis 1524.
+Iteration 23. Times in millis 1528.
+Iteration 24. Times in millis 1519.
+Iteration 25. Times in millis 1521.
+Iteration 26. Times in millis 1565.
+Iteration 27. Times in millis 1519.
+Iteration 28. Times in millis 1515.
+Iteration 29. Times in millis 1521.
+Iteration 30. Times in millis 1573.
+Results Steady-state:
+        Interval: (1523.9160084974849, 1536.7506581691816).
+        Mean: 1529.1.
+        Standard deviation: 4.2296571965113205.
+        Error percentage: 0.84%.

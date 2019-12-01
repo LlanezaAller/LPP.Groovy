@@ -1,0 +1,52 @@
+------STARTUP------
+Iteration 1. Times in millis 1854.9323081970215.
+Iteration 2. Times in millis 1795.1288223266602.
+Iteration 3. Times in millis 1723.4256267547607.
+Iteration 4. Times in millis 1749.1154670715332.
+Iteration 5. Times in millis 1704.1449546813965.
+Iteration 6. Times in millis 1707.2086334228516.
+Iteration 7. Times in millis 1663.5620594024658.
+Iteration 8. Times in millis 1642.0278549194336.
+Iteration 9. Times in millis 1697.0317363739014.
+Iteration 10. Times in millis 1640.4969692230225.
+Iteration 11. Times in millis 1658.271312713623.
+Iteration 12. Times in millis 1662.1379852294922.
+Iteration 13. Times in millis 1633.3293914794922.
+Iteration 14. Times in millis 1645.7149982452393.
+Iteration 15. Times in millis 1650.0122547149658.
+Iteration 16. Times in millis 1612.5566959381104.
+Iteration 17. Times in millis 1635.460376739502.
+Iteration 18. Times in millis 1659.6958637237549.
+Iteration 19. Times in millis 1602.3085117340088.
+Iteration 20. Times in millis 1606.055498123169.
+Iteration 21. Times in millis 1609.0400218963623.
+Iteration 22. Times in millis 1601.5048027038574.
+Iteration 23. Times in millis 1649.0261554718018.
+Iteration 24. Times in millis 1629.789113998413.
+Iteration 25. Times in millis 1628.4639835357666.
+Iteration 26. Times in millis 1612.0736598968506.
+Iteration 27. Times in millis 1616.0171031951904.
+Iteration 28. Times in millis 1633.1052780151367.
+Iteration 29. Times in millis 1651.5090465545654.
+Iteration 30. Times in millis 1613.8901710510254.
+Results Startup:
+        Interval: (1638.0313409760706, 1681.1044361794875).
+        Mean: 1652.2454500198364.
+        Standard deviation: 7.8658359131549815.
+        Error percentage: 2.60%.
+------STEADY-STATE------
+Iteration 1. Times in millis 1545.
+Iteration 2. Times in millis 1566.
+Iteration 3. Times in millis 1558.
+Iteration 4. Times in millis 1539.
+Iteration 5. Times in millis 1632.
+Iteration 6. Times in millis 1556.
+Iteration 7. Times in millis 1548.
+Iteration 8. Times in millis 1530.
+Iteration 9. Times in millis 1531.
+Iteration 10. Times in millis 1526.
+Results Steady-state:
+        Interval: (1532.2796727416087, 1573.9203272583911).
+        Mean: 1552.0.
+        Standard deviation: 8.962886439832502.
+        Error percentage: 2.68%.

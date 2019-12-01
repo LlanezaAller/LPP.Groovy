@@ -1,0 +1,72 @@
+------STARTUP------
+BinaryTrees: Iteration 1. Times in millis 36504.857301712036.
+BinaryTrees: Iteration 2. Times in millis 36911.014556884766.
+BinaryTrees: Iteration 3. Times in millis 33743.08228492737.
+BinaryTrees: Iteration 4. Times in millis 33215.76547622681.
+BinaryTrees: Iteration 5. Times in millis 33678.02143096924.
+BinaryTrees: Iteration 6. Times in millis 33421.674728393555.
+BinaryTrees: Iteration 7. Times in millis 33163.589000701904.
+BinaryTrees: Iteration 8. Times in millis 35212.35179901123.
+BinaryTrees: Iteration 9. Times in millis 35720.41726112366.
+BinaryTrees: Iteration 10. Times in millis 35254.08935546875.
+BinaryTrees: Iteration 11. Times in millis 35122.267723083496.
+BinaryTrees: Iteration 12. Times in millis 34271.177530288696.
+BinaryTrees: Iteration 13. Times in millis 35452.82340049744.
+BinaryTrees: Iteration 14. Times in millis 37197.850465774536.
+BinaryTrees: Iteration 15. Times in millis 33848.11782836914.
+BinaryTrees: Iteration 16. Times in millis 35948.18139076233.
+BinaryTrees: Iteration 17. Times in millis 34011.82174682617.
+BinaryTrees: Iteration 18. Times in millis 35259.7713470459.
+BinaryTrees: Iteration 19. Times in millis 35114.22419548035.
+BinaryTrees: Iteration 20. Times in millis 33688.95983695984.
+BinaryTrees: Iteration 21. Times in millis 34431.0576915741.
+BinaryTrees: Iteration 22. Times in millis 34516.09015464783.
+BinaryTrees: Iteration 23. Times in millis 33828.784704208374.
+BinaryTrees: Iteration 24. Times in millis 34803.91788482666.
+BinaryTrees: Iteration 25. Times in millis 34516.03960990906.
+BinaryTrees: Iteration 26. Times in millis 34290.16208648682.
+BinaryTrees: Iteration 27. Times in millis 33783.90336036682.
+BinaryTrees: Iteration 28. Times in millis 34244.41599845886.
+BinaryTrees: Iteration 29. Times in millis 35345.01266479492.
+BinaryTrees: Iteration 30. Times in millis 37108.593463897705.
+Results Startup:
+        Interval: (34369.66313067481, 35204.20595463708).
+        Mean: 34750.59954325358.
+        Standard deviation: 284.40668645527285.
+        Error percentage: 2.40%.
+------STEADY-STATE------
+Iteration 1. Times in millis 33134.
+Iteration 2. Times in millis 33293.
+Iteration 3. Times in millis 35165.
+Iteration 4. Times in millis 34050.
+Iteration 5. Times in millis 34509.
+Iteration 6. Times in millis 35933.
+Iteration 7. Times in millis 34126.
+Iteration 8. Times in millis 33724.
+Iteration 9. Times in millis 39602.
+Iteration 10. Times in millis 38151.
+Iteration 11. Times in millis 37673.
+Iteration 12. Times in millis 38027.
+Iteration 13. Times in millis 38291.
+Iteration 14. Times in millis 37618.
+Iteration 15. Times in millis 39672.
+Iteration 16. Times in millis 36791.
+Iteration 17. Times in millis 36420.
+Iteration 18. Times in millis 35035.
+Iteration 19. Times in millis 36920.
+Iteration 20. Times in millis 35859.
+Iteration 21. Times in millis 36048.
+Iteration 22. Times in millis 35271.
+Iteration 23. Times in millis 35939.
+Iteration 24. Times in millis 36002.
+Iteration 25. Times in millis 35343.
+Iteration 26. Times in millis 35905.
+Iteration 27. Times in millis 38457.
+Iteration 28. Times in millis 34470.
+Iteration 29. Times in millis 36161.
+Iteration 30. Times in millis 38065.
+Results Steady-state:
+        Interval: (35534.560696299304, 36842.37263703403).
+        Mean: 36117.555555555555.
+        Standard deviation: 287.33492308574563.
+        Error percentage: 3.61%.

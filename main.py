@@ -8,7 +8,7 @@ import bench
 # 0 => MonteCarlo
 # 1 => BinaryTrees
 # 2 => Fibonacci
-mode = 0
+mode = 2
 
 # 0 => Java
 # 1 => Groovy

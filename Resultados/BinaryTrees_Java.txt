@@ -1,0 +1,48 @@
+------STARTUP------
+Iteration 1. Times in millis 5046.382904052734.
+Iteration 2. Times in millis 4991.398811340332.
+Iteration 3. Times in millis 5092.368364334106.
+Iteration 4. Times in millis 5016.390562057495.
+Iteration 5. Times in millis 4995.398283004761.
+Iteration 6. Times in millis 5005.396127700806.
+Iteration 7. Times in millis 6855.80039024353.
+Iteration 8. Times in millis 6152.026891708374.
+Iteration 9. Times in millis 4869.439125061035.
+Iteration 10. Times in millis 4801.8670082092285.
+Iteration 11. Times in millis 4850.428342819214.
+Iteration 12. Times in millis 4780.46727180481.
+Iteration 13. Times in millis 4715.738296508789.
+Iteration 14. Times in millis 4676.5007972717285.
+Iteration 19. Times in millis 4891.4313316345215.
+Iteration 20. Times in millis 4973.405838012695.
+Iteration 21. Times in millis 4961.409091949463.
+Iteration 22. Times in millis 5418.262004852295.
+Iteration 23. Times in millis 4963.408470153809.
+Iteration 24. Times in millis 5200.744867324829.
+Iteration 25. Times in millis 5167.3266887664795.
+Iteration 26. Times in millis 5131.725788116455.
+Iteration 27. Times in millis 5506.701946258545.
+Iteration 28. Times in millis 5053.5900592803955.
+Iteration 29. Times in millis 4957.982301712036.
+Iteration 30. Times in millis 5008.744716644287.
+Results Startup:
+        Interval: (4891.300111300612, 5224.814012361701).
+        Mean: 5028.569012880325.
+        Standard deviation: 80.5070098859115.
+        Error percentage: 6.59%.
+------STEADY-STATE------
+Iteration 1. Times in millis 3557.
+Iteration 2. Times in millis 3654.
+Iteration 3. Times in millis 3605.
+Iteration 4. Times in millis 3950.
+Iteration 5. Times in millis 3773.
+Iteration 6. Times in millis 3863.
+Iteration 7. Times in millis 3623.
+Iteration 8. Times in millis 3672.
+Iteration 9. Times in millis 4058.
+Iteration 10. Times in millis 3715.
+Results Steady-state:
+        Interval: (3636.4085061174796, 3857.5914938825204).
+        Mean: 3703.5.
+        Standard deviation: 45.83939353874569.
+        Error percentage: 5.90%.
